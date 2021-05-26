@@ -1,2 +1,2 @@
-# curso_boostrap
+# curso_bootstrap
 Utilizando Bootstrap
